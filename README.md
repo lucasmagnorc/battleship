@@ -1,11 +1,11 @@
-# batalha_naval
+# battleship
 
-## O que é?
+## What is it?
 
-Batalha naval é um jogo de tabuleiro de 2 jogadores, onde os jogadores precisam adivinhar onde estão as embarcações do adversário.
+Battleship is a 2-player board game where players have to guess where their opponent's ships are.
 
-## Como jogar?
+## How to play?
 
-Para jogar basta compilar o código main com gcc e executalo.
+To play, simply compile the main code with gcc and run it.
 
-> gcc main.c -o batalha_naval && ./batalha_naval
+> gcc main.c -o battleship && ./battleship
